@@ -6,8 +6,14 @@
 //  Copyright © 2016年 WangQiao. All rights reserved.
 //
 
-#import "CustomViewController.h"
+//#import "CustomViewController.h"
+//
+//@interface ViewControllerTwo : CustomViewController
+//
+//@end
 
-@interface ViewControllerTwo : CustomViewController
+#import "NormalTitleViewController.h"
+
+@interface ViewControllerTwo : NormalTitleViewController
 
 @end
